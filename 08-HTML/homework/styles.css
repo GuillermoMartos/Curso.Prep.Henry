@@ -1,0 +1,7 @@
+h1{color:rgb(125, 138, 138)}
+body{background-image: url('https://static.wikia.nocookie.net/tomandjerry/images/1/1f/Star-crossed_Wolf_-_Barney_Bear_talking.png/'); background-size: 100%;}
+    img{width: 400px} 
+    div{max-width: 600px; margin: 0 auto;}
+    #spanId{margin: 50px; font-size: 18px;}
+    #thirdDiv{border-style: dashed ;width: 500px; height: 600px;background-color: darkgoldenrod;padding: 50px; border-color: darkgrey; border-width: 12px;}
+    
